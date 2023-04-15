@@ -14,7 +14,9 @@ When the patient visits the doctor there is a fee. If the patient has health ins
 Implement the CRUD operations of the patients, doctors, and visits, plus the following functionalities:
 
 List of all the patients, who have health insurance
+
 The percentage of patients who have no insurance (in accordance of the total number of patients) 
+
 The total income of all the visits of all patients to all doctors
 The income from visits fees of a particular doctor 
 The number of visits of a given patient
